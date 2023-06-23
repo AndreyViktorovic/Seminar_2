@@ -1,0 +1,15 @@
+D:\C#\Seminar2\Zalacha10\bin\Debug\net7.0\Zalacha10.exe
+D:\C#\Seminar2\Zalacha10\bin\Debug\net7.0\Zalacha10.deps.json
+D:\C#\Seminar2\Zalacha10\bin\Debug\net7.0\Zalacha10.runtimeconfig.json
+D:\C#\Seminar2\Zalacha10\bin\Debug\net7.0\Zalacha10.dll
+D:\C#\Seminar2\Zalacha10\bin\Debug\net7.0\Zalacha10.pdb
+D:\C#\Seminar2\Zalacha10\obj\Debug\net7.0\Zalacha10.csproj.AssemblyReference.cache
+D:\C#\Seminar2\Zalacha10\obj\Debug\net7.0\Zalacha10.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Seminar2\Zalacha10\obj\Debug\net7.0\Zalacha10.AssemblyInfoInputs.cache
+D:\C#\Seminar2\Zalacha10\obj\Debug\net7.0\Zalacha10.AssemblyInfo.cs
+D:\C#\Seminar2\Zalacha10\obj\Debug\net7.0\Zalacha10.csproj.CoreCompileInputs.cache
+D:\C#\Seminar2\Zalacha10\obj\Debug\net7.0\Zalacha10.dll
+D:\C#\Seminar2\Zalacha10\obj\Debug\net7.0\refint\Zalacha10.dll
+D:\C#\Seminar2\Zalacha10\obj\Debug\net7.0\Zalacha10.pdb
+D:\C#\Seminar2\Zalacha10\obj\Debug\net7.0\Zalacha10.genruntimeconfig.cache
+D:\C#\Seminar2\Zalacha10\obj\Debug\net7.0\ref\Zalacha10.dll

@@ -1,0 +1,15 @@
+D:\C#\Seminar2\Zadach12\bin\Debug\net7.0\Zadach12.exe
+D:\C#\Seminar2\Zadach12\bin\Debug\net7.0\Zadach12.deps.json
+D:\C#\Seminar2\Zadach12\bin\Debug\net7.0\Zadach12.runtimeconfig.json
+D:\C#\Seminar2\Zadach12\bin\Debug\net7.0\Zadach12.dll
+D:\C#\Seminar2\Zadach12\bin\Debug\net7.0\Zadach12.pdb
+D:\C#\Seminar2\Zadach12\obj\Debug\net7.0\Zadach12.csproj.AssemblyReference.cache
+D:\C#\Seminar2\Zadach12\obj\Debug\net7.0\Zadach12.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Seminar2\Zadach12\obj\Debug\net7.0\Zadach12.AssemblyInfoInputs.cache
+D:\C#\Seminar2\Zadach12\obj\Debug\net7.0\Zadach12.AssemblyInfo.cs
+D:\C#\Seminar2\Zadach12\obj\Debug\net7.0\Zadach12.csproj.CoreCompileInputs.cache
+D:\C#\Seminar2\Zadach12\obj\Debug\net7.0\Zadach12.dll
+D:\C#\Seminar2\Zadach12\obj\Debug\net7.0\refint\Zadach12.dll
+D:\C#\Seminar2\Zadach12\obj\Debug\net7.0\Zadach12.pdb
+D:\C#\Seminar2\Zadach12\obj\Debug\net7.0\Zadach12.genruntimeconfig.cache
+D:\C#\Seminar2\Zadach12\obj\Debug\net7.0\ref\Zadach12.dll

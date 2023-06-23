@@ -1,0 +1,15 @@
+D:\C#\Seminar2\Zadacha9\bin\Debug\net7.0\Zadacha9.exe
+D:\C#\Seminar2\Zadacha9\bin\Debug\net7.0\Zadacha9.deps.json
+D:\C#\Seminar2\Zadacha9\bin\Debug\net7.0\Zadacha9.runtimeconfig.json
+D:\C#\Seminar2\Zadacha9\bin\Debug\net7.0\Zadacha9.dll
+D:\C#\Seminar2\Zadacha9\bin\Debug\net7.0\Zadacha9.pdb
+D:\C#\Seminar2\Zadacha9\obj\Debug\net7.0\Zadacha9.csproj.AssemblyReference.cache
+D:\C#\Seminar2\Zadacha9\obj\Debug\net7.0\Zadacha9.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Seminar2\Zadacha9\obj\Debug\net7.0\Zadacha9.AssemblyInfoInputs.cache
+D:\C#\Seminar2\Zadacha9\obj\Debug\net7.0\Zadacha9.AssemblyInfo.cs
+D:\C#\Seminar2\Zadacha9\obj\Debug\net7.0\Zadacha9.csproj.CoreCompileInputs.cache
+D:\C#\Seminar2\Zadacha9\obj\Debug\net7.0\Zadacha9.dll
+D:\C#\Seminar2\Zadacha9\obj\Debug\net7.0\refint\Zadacha9.dll
+D:\C#\Seminar2\Zadacha9\obj\Debug\net7.0\Zadacha9.pdb
+D:\C#\Seminar2\Zadacha9\obj\Debug\net7.0\Zadacha9.genruntimeconfig.cache
+D:\C#\Seminar2\Zadacha9\obj\Debug\net7.0\ref\Zadacha9.dll

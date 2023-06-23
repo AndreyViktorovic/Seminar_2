@@ -1,0 +1,15 @@
+D:\C#\Seminar2\Zadacha13\bin\Debug\net7.0\Zadacha13.exe
+D:\C#\Seminar2\Zadacha13\bin\Debug\net7.0\Zadacha13.deps.json
+D:\C#\Seminar2\Zadacha13\bin\Debug\net7.0\Zadacha13.runtimeconfig.json
+D:\C#\Seminar2\Zadacha13\bin\Debug\net7.0\Zadacha13.dll
+D:\C#\Seminar2\Zadacha13\bin\Debug\net7.0\Zadacha13.pdb
+D:\C#\Seminar2\Zadacha13\obj\Debug\net7.0\Zadacha13.csproj.AssemblyReference.cache
+D:\C#\Seminar2\Zadacha13\obj\Debug\net7.0\Zadacha13.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Seminar2\Zadacha13\obj\Debug\net7.0\Zadacha13.AssemblyInfoInputs.cache
+D:\C#\Seminar2\Zadacha13\obj\Debug\net7.0\Zadacha13.AssemblyInfo.cs
+D:\C#\Seminar2\Zadacha13\obj\Debug\net7.0\Zadacha13.csproj.CoreCompileInputs.cache
+D:\C#\Seminar2\Zadacha13\obj\Debug\net7.0\Zadacha13.dll
+D:\C#\Seminar2\Zadacha13\obj\Debug\net7.0\refint\Zadacha13.dll
+D:\C#\Seminar2\Zadacha13\obj\Debug\net7.0\Zadacha13.pdb
+D:\C#\Seminar2\Zadacha13\obj\Debug\net7.0\Zadacha13.genruntimeconfig.cache
+D:\C#\Seminar2\Zadacha13\obj\Debug\net7.0\ref\Zadacha13.dll
